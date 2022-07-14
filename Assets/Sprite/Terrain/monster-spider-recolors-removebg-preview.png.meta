@@ -1,0 +1,2048 @@
+fileFormatVersion: 2
+guid: 08c6ab3bfc94d8344a93ec1d2ce3d23b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: monster-spider-recolors-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 320
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d725635dd859cf0f0800000000000000
+      internalID: -1081825374075727235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-spider-recolors-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 320
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec3fe05a7f967bc0800000000000000
+      internalID: -3785663089065640721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-spider-recolors-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 320
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b912b9f87dc7430800000000000000
+      internalID: 3782134798867340058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-spider-recolors-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 273
+        width: 43
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c4d8bd77d56a4d40800000000000000
+      internalID: 5569375865398678724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-spider-recolors-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 275
+        width: 39
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e1bf91870ca7cfb0800000000000000
+      internalID: -4627540943860420127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-spider-recolors-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 273
+        width: 43
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c113b219f97cc4100800000000000000
+      internalID: 93669180417192220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-spider-recolors-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 273
+        width: 43
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef10f5514e58355f0800000000000000
+      internalID: -769123896692637186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-spider-recolors-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 275
+        width: 39
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b27e38187ebb7c70800000000000000
+      internalID: 8969972505850573493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-spider-recolors-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 273
+        width: 43
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c41215aa0e105c50800000000000000
+      internalID: 6651849680694154439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-spider-recolors-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 273
+        width: 43
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ebcafb4b2b98e50800000000000000
+      internalID: 6812172400754212386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-spider-recolors-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 275
+        width: 39
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e8b692bbd6df660800000000000000
+      internalID: 7421208411597672002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-spider-recolors-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 273
+        width: 43
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a52ae8c3a57345ce0800000000000000
+      internalID: -1417447122012298662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-spider-recolors-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 273
+        width: 43
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d087e463cee4cbc0800000000000000
+      internalID: -3763620865595965228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-spider-recolors-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 275
+        width: 39
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611a14b5a8a1d92a0800000000000000
+      internalID: -6729193086682816234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-spider-recolors-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 273
+        width: 43
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90de7760560041050800000000000000
+      internalID: 5770237456468667657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-spider-recolors-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 228
+        width: 43
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eab7ce2ccc063b00800000000000000
+      internalID: 807847254257285857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-spider-recolors-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 229
+        width: 39
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4864dc2274f76bba0800000000000000
+      internalID: -6073527103959251324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-spider-recolors-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 228
+        width: 43
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf495ca60098adf0800000000000000
+      internalID: -168726627690655826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-spider-recolors-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 228
+        width: 43
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c199c24a4933a9d10800000000000000
+      internalID: 2133074087015913756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-spider-recolors-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 229
+        width: 39
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d66f154ae8eda190800000000000000
+      internalID: -7949441674359380264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-spider-recolors-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 228
+        width: 43
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b6299143f0800630800000000000000
+      internalID: 3891251860314072754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-spider-recolors-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 228
+        width: 43
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b29f2f03215dd20800000000000000
+      internalID: 3302565903190272771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-spider-recolors-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 229
+        width: 39
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ef57f0a4e656da50800000000000000
+      internalID: 6545514648382693347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-spider-recolors-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 228
+        width: 43
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c37a9f48bbb429e40800000000000000
+      internalID: 5661670950320056124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-spider-recolors-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 228
+        width: 43
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae76ee68bc0d85a0800000000000000
+      internalID: -6517539099461124434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-spider-recolors-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 229
+        width: 39
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dffa7da94591307b0800000000000000
+      internalID: -5259332088672833539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-spider-recolors-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 228
+        width: 43
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f9ab4445f22b860800000000000000
+      internalID: 7544144364775841609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-spider-recolors-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 184
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef79af6e757c9d810800000000000000
+      internalID: 1790681507207747582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-spider-recolors-removebg-preview_37
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 184
+        width: 46
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6574d30870f39d40800000000000000
+      internalID: 5590075960747914604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-spider-recolors-removebg-preview_38
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 184
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aefe64fb773c32a0800000000000000
+      internalID: -6756464335441166686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-spider-recolors-removebg-preview_39
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 184
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 857a7d1903b06ed50800000000000000
+      internalID: 6766107793403914072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-spider-recolors-removebg-preview_40
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 184
+        width: 46
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a78ed9288186ff80800000000000000
+      internalID: -8073122860197050459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-spider-recolors-removebg-preview_41
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 184
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e623e8d28b5be4960800000000000000
+      internalID: 7588202224808768110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-spider-recolors-removebg-preview_42
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 184
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f36905491a9cf50800000000000000
+      internalID: 6902225562301251375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-spider-recolors-removebg-preview_43
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 184
+        width: 46
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66b79c119c362110800000000000000
+      internalID: 1235741741707409003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-spider-recolors-removebg-preview_44
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 184
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 319fbd07e66116ce0800000000000000
+      internalID: -1413824144421947117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-spider-recolors-removebg-preview_45
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 184
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ada4033154c66cf0800000000000000
+      internalID: -259304075499885152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-spider-recolors-removebg-preview_46
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 184
+        width: 46
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ba628495b3d2c30800000000000000
+      internalID: 4336187270876277545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-spider-recolors-removebg-preview_47
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 184
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef02f754305887c0800000000000000
+      internalID: -4068914077585240086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-spider-recolors-removebg-preview_48
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 137
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f95ddd99c00cfb90800000000000000
+      internalID: -7206884437762680331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-spider-recolors-removebg-preview_49
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 138
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ace55e8adc2bfa50800000000000000
+      internalID: 6555882999770377382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-spider-recolors-removebg-preview_50
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 137
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa29426937edfae70800000000000000
+      internalID: 9128759557724869290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-spider-recolors-removebg-preview_51
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 137
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72268c19f361e9370800000000000000
+      internalID: 8331120822966575655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-spider-recolors-removebg-preview_52
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 138
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62088d006426d8590800000000000000
+      internalID: -7670366537540665306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-spider-recolors-removebg-preview_53
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 137
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e3ebeba672df7e0800000000000000
+      internalID: -1730183342420247018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-spider-recolors-removebg-preview_54
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 137
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe59a9897be86630800000000000000
+      internalID: 3920642382859165438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-spider-recolors-removebg-preview_55
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 138
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9137d409ec8b94d80800000000000000
+      internalID: -8265872443738066151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-spider-recolors-removebg-preview_56
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 137
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ef4c5b5bb05b6e0800000000000000
+      internalID: -1822537599134925213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-spider-recolors-removebg-preview_57
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 137
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e03f94f15fd949400800000000000000
+      internalID: 330062348822377230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-spider-recolors-removebg-preview_58
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 138
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b67410f9867bf80800000000000000
+      internalID: -8090883173417260283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-spider-recolors-removebg-preview_59
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 137
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54539ce7ac7b11350800000000000000
+      internalID: 5985767460090492229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-spider-recolors-removebg-preview_60
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 91
+        width: 43
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb60d97dc7ab05c0800000000000000
+      internalID: -4248117322540094475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-spider-recolors-removebg-preview_61
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 92
+        width: 39
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e58f171b3b69fa0800000000000000
+      internalID: -5794246295862878712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-spider-recolors-removebg-preview_62
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 91
+        width: 43
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1231b96976af90a0800000000000000
+      internalID: -6872591465949613539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-spider-recolors-removebg-preview_63
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 91
+        width: 43
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d2c33857c40d2c0800000000000000
+      internalID: -4408939967599071864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-spider-recolors-removebg-preview_64
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 92
+        width: 39
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e53219c3b6b840ad0800000000000000
+      internalID: -2736909380840512674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-spider-recolors-removebg-preview_65
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 91
+        width: 43
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05ce0ac3faac18570800000000000000
+      internalID: 8467271628418509904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-spider-recolors-removebg-preview_66
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 91
+        width: 43
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2300134800f4e4930800000000000000
+      internalID: 4129324771981721650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-spider-recolors-removebg-preview_67
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 92
+        width: 39
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d48ac3a53b7906210800000000000000
+      internalID: 1324225087015790669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-spider-recolors-removebg-preview_68
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 91
+        width: 43
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf738bc1400a8d2d0800000000000000
+      internalID: -3253674791253035012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-spider-recolors-removebg-preview_69
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 91
+        width: 43
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5637c9dbd94672b0800000000000000
+      internalID: -5587197079106144674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-spider-recolors-removebg-preview_70
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 92
+        width: 39
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d3c1eae36960040800000000000000
+      internalID: 4613540064240876874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-spider-recolors-removebg-preview_71
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 91
+        width: 43
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d0a4e6026c81e320800000000000000
+      internalID: 2585502013737705682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-spider-recolors-removebg-preview_72
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 45
+        width: 43
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b1ed1b3f03e8fb0800000000000000
+      internalID: -4643720342553093217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-spider-recolors-removebg-preview_73
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 47
+        width: 39
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9fdb777df579ff60800000000000000
+      internalID: 8068609938902736796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-spider-recolors-removebg-preview_74
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 45
+        width: 43
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4621fbc547986450800000000000000
+      internalID: 6082277622793971276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-spider-recolors-removebg-preview_75
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 45
+        width: 43
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f4ebbc3533fdb0f0800000000000000
+      internalID: -1099455324030769935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-spider-recolors-removebg-preview_76
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 47
+        width: 39
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb1905689f89d2c0800000000000000
+      internalID: -4406332875712422963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-spider-recolors-removebg-preview_77
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 45
+        width: 43
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ceefaa75a8e37490800000000000000
+      internalID: -7749594736348893499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-spider-recolors-removebg-preview_78
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 45
+        width: 43
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63b7894033f77ceb0800000000000000
+      internalID: -4699647829040661706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-spider-recolors-removebg-preview_79
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 47
+        width: 39
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ddf035d418e2e630800000000000000
+      internalID: 3954978598958464472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-spider-recolors-removebg-preview_80
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 45
+        width: 43
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac22a0662f638010800000000000000
+      internalID: 1189916937176624296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-spider-recolors-removebg-preview_81
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 45
+        width: 43
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e7046e31888090c0800000000000000
+      internalID: -4571003533102151712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-spider-recolors-removebg-preview_82
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 47
+        width: 39
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e6a514c9284fef70800000000000000
+      internalID: 9218666306471306981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-spider-recolors-removebg-preview_83
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 45
+        width: 43
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1747f21972cbfb9f0800000000000000
+      internalID: -450434559588207503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-spider-recolors-removebg-preview_84
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fcdab36146893380800000000000000
+      internalID: -8991007565664297740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-spider-recolors-removebg-preview_85
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 2
+        width: 46
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc4eba0e44d95eb0800000000000000
+      internalID: -4730516501923214150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-spider-recolors-removebg-preview_86
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 2
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2987322226cf7660800000000000000
+      internalID: 7385839763816155438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-spider-recolors-removebg-preview_87
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 2
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d95581a9a2e014e0800000000000000
+      internalID: -2012859815247390250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-spider-recolors-removebg-preview_88
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 2
+        width: 46
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e991d6a23b697300800000000000000
+      internalID: 250349119587064289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-spider-recolors-removebg-preview_89
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 2
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 937496144c8a43570800000000000000
+      internalID: 8445560762090997561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-spider-recolors-removebg-preview_90
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 2
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c39ad4aaeb104c0800000000000000
+      internalID: -4322964528642311098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-spider-recolors-removebg-preview_91
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 2
+        width: 46
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c76bde0db88726f90800000000000000
+      internalID: -6961869532060338564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-spider-recolors-removebg-preview_92
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 2
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea5d8563cbd40a020800000000000000
+      internalID: 2350964476248380846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-spider-recolors-removebg-preview_93
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 2
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d5bd0c279c3dbd0800000000000000
+      internalID: -2606518264618328778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-spider-recolors-removebg-preview_94
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 2
+        width: 46
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44a94f899677c190800000000000000
+      internalID: -7942249015938538420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-spider-recolors-removebg-preview_95
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 2
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ab60fed69bff7e0800000000000000
+      internalID: -1729459850074211829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      monster-spider-recolors-removebg-preview_25: -6073527103959251324
+      monster-spider-recolors-removebg-preview_79: 3954978598958464472
+      monster-spider-recolors-removebg-preview_71: 2585502013737705682
+      monster-spider-recolors-removebg-preview_37: 5590075960747914604
+      monster-spider-recolors-removebg-preview_86: 7385839763816155438
+      monster-spider-recolors-removebg-preview_46: 4336187270876277545
+      monster-spider-recolors-removebg-preview_17: 6651849680694154439
+      monster-spider-recolors-removebg-preview_54: 3920642382859165438
+      monster-spider-recolors-removebg-preview_63: -4408939967599071864
+      monster-spider-recolors-removebg-preview_32: 5661670950320056124
+      monster-spider-recolors-removebg-preview_77: -7749594736348893499
+      monster-spider-recolors-removebg-preview_59: 5985767460090492229
+      monster-spider-recolors-removebg-preview_45: -259304075499885152
+      monster-spider-recolors-removebg-preview_27: 2133074087015913756
+      monster-spider-recolors-removebg-preview_95: -1729459850074211829
+      monster-spider-recolors-removebg-preview_66: 4129324771981721650
+      monster-spider-recolors-removebg-preview_18: 6812172400754212386
+      monster-spider-recolors-removebg-preview_42: 6902225562301251375
+      monster-spider-recolors-removebg-preview_39: 6766107793403914072
+      monster-spider-recolors-removebg-preview_70: 4613540064240876874
+      monster-spider-recolors-removebg-preview_93: -2606518264618328778
+      monster-spider-recolors-removebg-preview_20: -1417447122012298662
+      monster-spider-recolors-removebg-preview_49: 6555882999770377382
+      monster-spider-recolors-removebg-preview_83: -450434559588207503
+      monster-spider-recolors-removebg-preview_94: -7942249015938538420
+      monster-spider-recolors-removebg-preview_75: -1099455324030769935
+      monster-spider-recolors-removebg-preview_80: 1189916937176624296
+      monster-spider-recolors-removebg-preview_11: 3782134798867340058
+      monster-spider-recolors-removebg-preview_55: -8265872443738066151
+      monster-spider-recolors-removebg-preview_87: -2012859815247390250
+      monster-spider-recolors-removebg-preview_15: -769123896692637186
+      monster-spider-recolors-removebg-preview_81: -4571003533102151712
+      monster-spider-recolors-removebg-preview_12: 5569375865398678724
+      monster-spider-recolors-removebg-preview_52: -7670366537540665306
+      monster-spider-recolors-removebg-preview_89: 8445560762090997561
+      monster-spider-recolors-removebg-preview_90: -4322964528642311098
+      monster-spider-recolors-removebg-preview_38: -6756464335441166686
+      monster-spider-recolors-removebg-preview_36: 1790681507207747582
+      monster-spider-recolors-removebg-preview_41: 7588202224808768110
+      monster-spider-recolors-removebg-preview_57: 330062348822377230
+      monster-spider-recolors-removebg-preview_67: 1324225087015790669
+      monster-spider-recolors-removebg-preview_28: -7949441674359380264
+      monster-spider-recolors-removebg-preview_78: -4699647829040661706
+      monster-spider-recolors-removebg-preview_30: 3302565903190272771
+      monster-spider-recolors-removebg-preview_43: 1235741741707409003
+      monster-spider-recolors-removebg-preview_92: 2350964476248380846
+      monster-spider-recolors-removebg-preview_22: -6729193086682816234
+      monster-spider-recolors-removebg-preview_29: 3891251860314072754
+      monster-spider-recolors-removebg-preview_65: 8467271628418509904
+      monster-spider-recolors-removebg-preview_60: -4248117322540094475
+      monster-spider-recolors-removebg-preview_21: -3763620865595965228
+      monster-spider-recolors-removebg-preview_10: -3785663089065640721
+      monster-spider-recolors-removebg-preview_74: 6082277622793971276
+      monster-spider-recolors-removebg-preview_84: -8991007565664297740
+      monster-spider-recolors-removebg-preview_34: -5259332088672833539
+      monster-spider-recolors-removebg-preview_40: -8073122860197050459
+      monster-spider-recolors-removebg-preview_16: 8969972505850573493
+      monster-spider-recolors-removebg-preview_26: -168726627690655826
+      monster-spider-recolors-removebg-preview_64: -2736909380840512674
+      monster-spider-recolors-removebg-preview_31: 6545514648382693347
+      monster-spider-recolors-removebg-preview_50: 9128759557724869290
+      monster-spider-recolors-removebg-preview_69: -5587197079106144674
+      monster-spider-recolors-removebg-preview_19: 7421208411597672002
+      monster-spider-recolors-removebg-preview_61: -5794246295862878712
+      monster-spider-recolors-removebg-preview_88: 250349119587064289
+      monster-spider-recolors-removebg-preview_33: -6517539099461124434
+      monster-spider-recolors-removebg-preview_68: -3253674791253035012
+      monster-spider-recolors-removebg-preview_23: 5770237456468667657
+      monster-spider-recolors-removebg-preview_76: -4406332875712422963
+      monster-spider-recolors-removebg-preview_13: -4627540943860420127
+      monster-spider-recolors-removebg-preview_82: 9218666306471306981
+      monster-spider-recolors-removebg-preview_51: 8331120822966575655
+      monster-spider-recolors-removebg-preview_62: -6872591465949613539
+      monster-spider-recolors-removebg-preview_9: -1081825374075727235
+      monster-spider-recolors-removebg-preview_14: 93669180417192220
+      monster-spider-recolors-removebg-preview_47: -4068914077585240086
+      monster-spider-recolors-removebg-preview_44: -1413824144421947117
+      monster-spider-recolors-removebg-preview_91: -6961869532060338564
+      monster-spider-recolors-removebg-preview_72: -4643720342553093217
+      monster-spider-recolors-removebg-preview_85: -4730516501923214150
+      monster-spider-recolors-removebg-preview_73: 8068609938902736796
+      monster-spider-recolors-removebg-preview_24: 807847254257285857
+      monster-spider-recolors-removebg-preview_56: -1822537599134925213
+      monster-spider-recolors-removebg-preview_48: -7206884437762680331
+      monster-spider-recolors-removebg-preview_35: 7544144364775841609
+      monster-spider-recolors-removebg-preview_58: -8090883173417260283
+      monster-spider-recolors-removebg-preview_53: -1730183342420247018
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

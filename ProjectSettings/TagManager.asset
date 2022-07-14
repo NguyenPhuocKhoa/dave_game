@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - diamond
+  - cup
+  - door
+  - fire
+  - pnlGameOver
+  - pnlGameOverBg
+  - pnlReplay
+  - water
+  - heart
+  - txtAnCup
+  - NextLevel
+  - sam_set
+  - vuong_mien
+  - den
+  - gun
+  - fly
+  - lblGun
+  - lblFly
+  - sprider
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Player
+    uniqueID: 2322787391
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
